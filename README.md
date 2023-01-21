@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sara-Elgayar
 - 📊 I’m a fan of Excel, SQL, Python and Tableau
-- 🌱 I’m a Data Analyst and continually learning
+- 🌱 I’m a Data Engineer and continually learning
 - 📫 You can view more about me here: 
 - 😄 Pronouns: she/her
 - ⚡ I'm also a wife, mother, swimmer and traveling enthusiast 
