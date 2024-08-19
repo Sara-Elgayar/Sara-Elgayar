@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sara-Elgayar
-- 📊 I’m a fan of Python, SQL and Tableau
+- 📊 I’m a fan of Python, SAS, SQL, R and PowerBI
 - 🌱 I’m a Data Analyst and continually learning
 - 📫 You can view more about me here: https://se-page.carrd.co/
 - 😄 Pronouns: she/her
